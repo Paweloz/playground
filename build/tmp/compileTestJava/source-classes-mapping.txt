@@ -1,0 +1,2 @@
+com/podstawy/kodilla/CalculationsTest.java
+ com.podstawy.kodilla.CalculationsTest

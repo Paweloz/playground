@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.podstawy.kodilla.CalculationsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-11T12:00:27" hostname="LAPTOP-R2JI2FRN" time="0.028">
+  <properties/>
+  <testcase name="findStudentsWhichSpeakPolishWithAverageFromMathAbove4()" classname="com.podstawy.kodilla.CalculationsTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
